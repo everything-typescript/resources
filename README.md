@@ -1,2 +1,2 @@
-# resources
-#EverythingTypeScript - resources for TypeScript developers 
+# Everything TypeScript - Resources
+Resources for TypeScript developers 
