@@ -67,4 +67,4 @@ The best way to get started with the CLI is to use our [Interactive Walkthrough]
 If you just want to download the CLI manually and work out how to use it, you can download and install it from [GitHub](https://github.com/exercism/cli/releases/latest). However, please note that we ask that you work through the Interactive Walkthrough before opening any support requests
 
 ## Join the team
-Join [Everything TypeScript](https://teams.exercism.io/teams/everything-typescript) team and choose "Exercism: teams edition" to partake in our team's solutions and other practice-related activities.
+Join [Everything TypeScript](https://teams.exercism.io/teams/everything-typescript) team to partake in our team's practice-related activities.
